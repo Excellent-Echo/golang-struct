@@ -1,0 +1,19 @@
+{
+    "name" : "afis",
+    "age" : 23,
+    "status" : true,
+    "address" : [
+        {
+            "jalan" : "mahakkan",
+            "kecamatan" : "waru",
+            "kabupaten" : "kabupaten",
+            "provinsi" : "jawa"
+        }, 
+        {
+            "jalan" : "mahakkan",
+            "kecamatan" : "waru",
+            "kabupaten" : "kabupaten",
+            "provinsi" : "jawa"
+        }
+    ]
+}
